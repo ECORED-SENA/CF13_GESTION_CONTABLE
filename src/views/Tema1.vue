@@ -250,11 +250,14 @@
               td IVA 19%
               td $ 19.000.000
             tr
-              td
-              td
+              td IVA 19%
+              td $ 19.000.000
             tr(style="background-color: #F6F6F6;")
-              td
-              td
+              td Instalación
+              td $ 15.000.000
+            tr
+              td Costo Adquisición
+              td $ 134.000.000
       .col-lg-5.d-flex
         table
           thead
@@ -292,9 +295,6 @@
             tr
               th Importe de depreciación
               td $ 124.000.000
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
       .col-lg-5
         .cajon.color-primario.p-4
           .h4.mb-5 Vida útil: 10 años
@@ -402,10 +402,10 @@
               td.text-center $ 134.000.000
             tr(style="background-color: #F6F6F6;")
               th.text-center Depreciación acumulada (Ag-Dic)
-              td.text-center $ 10.000.000
+              td.text-center $ 4.684.436
             tr
               th.text-center Importe en libros
-              td.text-center $ 124.000.000
+              td.text-center $ 129.315.564
     p.text-center Importe recuperable: $ 105.000.000
     p.text-center Valor libros: $ 129.351.564
     p.text-center Deterioro = $ 24.315.564
@@ -469,6 +469,22 @@
               th IVA
               td $ 475.000
               td
+            tr
+              th RF 2,5%
+              td 
+              td $ 62.500
+            tr(style="background-color: #F6F6F6;")
+              th RICA 11,04 * 1000
+              td 
+              td $ 27.600
+            tr
+              th Proveedores Nacionales
+              td 
+              td $ 2.884.900
+            tr(style="background-color: #F6F6F6;")
+              th Total
+              td $ 2.975.000
+              td $ 2.975.000
     .h4 Supuesto deterioro:
     p.mb-5 El precio estimado de los inventarios es de $2.900.000 y los gastos de venta son de $600.000
     .row.justify-content-center.mb-5
@@ -485,6 +501,9 @@
             tr(style="background-color: #F6F6F6;")
               th Valor neto realizable (PV -gastos)
               td $ 2.500.000
+            tr
+              th DETERIORO
+              td $ 200.000
       .col-lg-5.d-flex
         table
           thead
@@ -568,7 +587,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             .h4.mb-0.ms-3 El valor residual de un activo es el importe estimado que la entidad podría obtener de un activo por su disposición, después de haber deducido los costos estimados para su disposición, si el activo tuviera ya la edad y condición esperadas al término de su vida útil. (p.2)
-              i.fas.fa-quote-right
+              i.fas.fa-quote-right.d-flex.justify-content-end
     p De igual forma, para ampliar los conceptos sobre este tema se analizan los párrafos 43 y 44 de la NIC 16, que manifiesta que se depreciará de forma separada cada parte de un elemento de propiedades, planta y equipo que tenga un costo significativo con relación al costo total del elemento y será distribuida entre sus partes significativas. Por ejemplo, podría ser adecuado depreciar por separado la estructura y los motores de un avión. 
     p La depreciación de un activo cesará cuando haya finalizado su periodo de depreciación (vida útil). Por otro lado, se tendrá en cuenta la fecha más próxima entre la clasificación del activo como mantenido para la venta o la baja de cuentas de este, pero en ningún momento cuando el activo no se esté utilizando.
     p.mb-5 Para calcular la depreciación contable, se tiene en cuenta los siguientes elementos para hallar el importe en libros:
@@ -586,7 +605,7 @@
     .h4 Vida útil
     p.mb-5 La vida útil de los activos fijos se relaciona en las políticas contables diseñadas por la empresa, teniendo en cuenta la utilidad del activo. De acuerdo con el art. 137 del ET, la tasa de depreciación anual y vida útil equivalente se presenta de la siguiente manera:
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0.d-flex
+      .col-lg-8.mb-4.mb-lg-0.d-flex
         table
           thead(style="background-color: #D9A171;")
             tr
@@ -602,6 +621,62 @@
               td Acueducto, planta y redes
               td 2,50%
               td 40 años
+            tr
+              td Vías de comunicación
+              td 2,50%
+              td 40 años
+            tr(style="background-color: #F6F6F6;")
+              td Flota y equipo aéreo
+              td 3,33%
+              td 30 años
+            tr
+              td Flota y equipo férreo
+              td 5,00%
+              td 20 años
+            tr(style="background-color: #F6F6F6;")
+              td Flota y equipo fluvial
+              td 6,67%
+              td 15 años
+            tr
+              td Armamento y equipo de vigilancia
+              td 10,00%
+              td 10 años
+            tr(style="background-color: #F6F6F6;")
+              td Equipo eléctrico
+              td 10,00%
+              td 10 años
+            tr
+              td Flota y equipo de transporte terrestre
+              td 10,00%
+              td 10 años
+            tr(style="background-color: #F6F6F6;")
+              td Maquinaria, equipos
+              td 10,00%
+              td 10 años
+            tr
+              td Muebles y enseres
+              td 10,00%
+              td 10 años
+            tr(style="background-color: #F6F6F6;")
+              td Equipo médico científico
+              td 12,50%
+              td 8 años
+            tr
+              td Envases, empaques y herramientas
+              td 20,00%
+              td 5 años
+            tr(style="background-color: #F6F6F6;")
+              td Equipo de computación
+              td 20,00%
+              td 5 años
+            tr
+              td Redes de procesamiento de datos
+              td 20,00%
+              td 5 años
+            tr(style="background-color: #F6F6F6;")
+              td Equipo de comunicación
+              td 20,00%
+              td 5 años
     .h4 Métodos de depreciación
     p.mb-5 La depreciación se calcula sobre la sumatoria del precio de adquisición, el impuesto sobre las ventas y costos atribuibles para poner en funcionamiento el activo. Los métodos, son los siguientes:
     .row.align-items-center.mb-5
@@ -634,11 +709,17 @@
               th IVA
               td $ 6.650.000
             tr
-              th Importe de depreciación
-              td $ 124.000.000
+              th MO instalación
+              td $ 300.000
             tr(style="background-color: #F6F6F6;")
-              th
-              td
+              th Materiales instalación
+              td $ 180.000
+            tr
+              th MO instalación
+              td $ 300.000
+            tr(style="background-color: #F6F6F6;")
+              th Costo
+              td $ 42.430.000
       .col-lg-5.mb-lg-0
         .cajon.color-primario.p-4
           .p Vida útil= 15 años
@@ -734,6 +815,90 @@
               td $ 5.303.750
               td $ 5.303.750
               td $ 37.126.250
+            tr
+              td 2
+              td 14/120
+              td $ 4.950.167
+              td $ 10.253.917
+              td $ 32.176.083
+            tr(style="background-color: #F6F6F6;")
+              td 3
+              td 13/120
+              td $ 4.596.583
+              td $ 14.850.500
+              td $ 27.579.500
+            tr
+              td 4
+              td 12/120
+              td $ 4.243.000
+              td $ 19.093.500
+              td $ 23.336.500
+            tr(style="background-color: #F6F6F6;")
+              td 5
+              td 11/120
+              td $ 3.889.417
+              td $ 22.982.917
+              td $ 19.447.083
+            tr
+              td 6
+              td 10/120
+              td $ 3.535.833
+              td $ 26.518.750
+              td $ 15.911.250
+            tr(style="background-color: #F6F6F6;")
+              td 7
+              td 9/120
+              td $ 3.182.250
+              td $ 29.701.000
+              td $ 12.729.000
+            tr
+              td 8
+              td 8/120
+              td $ 2.828.667
+              td $ 32.529.667
+              td $ 9.900.333
+            tr(style="background-color: #F6F6F6;")
+              td 9
+              td 7/120
+              td $ 2.475.083
+              td $ 35.004.750
+              td $ 7.425.250
+            tr
+              td 10
+              td 6/120
+              td $ 2.121.500
+              td $ 37.126.250
+              td $ 5.303.750
+            tr(style="background-color: #F6F6F6;")
+              td 11
+              td 5/120
+              td $ 1.767.917
+              td $ 38.894.167
+              td $ 3.535.833
+            tr
+              td 12
+              td 4/120
+              td $ 1.414.333
+              td $ 40.308.500
+              td $ 2.121.500
+            tr(style="background-color: #F6F6F6;")
+              td 13
+              td 3/120
+              td $ 1.060.750
+              td $ 41.369.250
+              td $ 1.060.750
+            tr
+              td 14
+              td 2/120
+              td $ 707.167
+              td $ 42.076.417
+              td $ 353.583
+            tr(style="background-color: #F6F6F6;")
+              td 15
+              td 1/120
+              td $ 353.583
+              td $ 42.430.000
+              td $ 0
     p.mb-5 Se puede observar que, comparado con el método de línea recta, en este método, en los primeros años el activo se deprecia más y en los últimos años su valor es menor.
     .row.align-items-center.mb-5
       .col-auto.d-inline
@@ -762,37 +927,40 @@
               th 2
               td 2.700
             tr
-              th
-              td
+              th 3
+              td 2.450
             tr(style="background-color: #F6F6F6;")
-              th
-              td
+              th 4
+              td 2.200
             tr
-              th
-              td
+              th 5
+              td 1.900
             tr(style="background-color: #F6F6F6;")
-              th
-              td
+              th 6
+              td 1.750
             tr
-              th
-              td
+              th 7
+              td 1.900
             tr(style="background-color: #F6F6F6;")
-              th
-              td
+              th 8
+              td 1.600
             tr
-              th
-              td
+              th 9
+              td 1.400
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-      .col-lg-5
+              th 10
+              td 1.300
+            tr
+              th Total
+              td 20.000
+      .col-lg-5.mt-4.mt-lg-0
         .cajon.color-primario.p-4
           p Para calcular el valor de depreciación por unidad se aplica la siguiente fórmula:
           figure.mb-4
-            img(src="@/assets/curso/img19.svg", style=" max-width: 60%;")
+            img(src="@/assets/curso/img19.svg", style=" max-width: 85%;")
           p Luego, se multiplica las unidades producidas por la depreciación por unidad:
           figure.mb-4
-            img(src="@/assets/curso/img20.svg", style=" max-width: 60%;")
+            img(src="@/assets/curso/img20.svg", style=" max-width: 85%;")
           p #[b Depreciación por unidad=] $2.000/unidad
           p Seguidamente, se multiplica las unidades producidas por la depreciación por unidad:
           p #[b Depreciación=] $ 2.0000 * 2.800 unidades.
@@ -822,6 +990,69 @@
           td $ 5.600.000,00
           td $ 5.600.000,00
           td $ 34.400.000,00
+        tr
+          td 2
+          td 2.700
+          td $ 2.000
+          td $ 5.400.000,00
+          td $ 11.000.000,00
+          td $ 29.000.000,00
+        tr(style="background-color: #F6F6F6;")
+          td 3
+          td 2.450
+          td $ 2.000
+          td $ 4.900.000,00
+          td $ 15.900.000,00
+          td $ 24.100.000,00
+        tr
+          td 4
+          td 2.200
+          td $ 2.000
+          td $ 4.400.000,00
+          td $ 20.300.000,00
+          td $ 19.700.000,00
+        tr(style="background-color: #F6F6F6;")
+          td 5
+          td 1.900
+          td $ 2.000
+          td $ 3.800.000,00
+          td $ 24.100.000,00
+          td $ 15.900.000,00
+        tr
+          td 6
+          td 1.750
+          td $ 2.000
+          td $ 3.500.000,00
+          td $ 27.600.000,00
+          td $ 12.400.000,00
+        tr(style="background-color: #F6F6F6;")
+          td 7
+          td 1.900
+          td $ 2.000
+          td $ 3.800.000,00
+          td $ 31.400.000,00
+          td $ 8.600.000,00
+        tr
+          td 8
+          td 1.600
+          td $ 2.000
+          td $ 3.200.000,00
+          td $ 34.600.000,00
+          td $ 5.400.000,00
+        tr(style="background-color: #F6F6F6;")
+          td 9
+          td 1.400
+          td $ 2.000
+          td $ 2.800.000,00
+          td $ 37.400.000,00
+          td $ 2.600.000,00
+        tr
+          td 10
+          td 1.300
+          td $ 2.000
+          td $ 2.600.000,00
+          td $ 40.000.000,00
+          td 
     separador.mb-5
     #t_1_3
     .titulo-segundo
@@ -947,6 +1178,18 @@
               td Activo intangible en desarrollo – Materiales e insumos
               td  $ 3.300.000
               td
+            tr
+              td Activo intangible en desarrollo - Pruebas
+              td $ 1.200.000 
+              td
+            tr(style="background-color: #F6F6F6;")
+              td Efectivo
+              td 
+              td $ 10.000.000 
+            tr
+              td TOTAL
+              td $ 10.000.000 
+              td $ 10.000.000 
     .h4.mb-5 Amortización: 31 de diciembre de 2020
     p.mb-5 Se realiza por el mes de diciembre, teniendo en cuenta que el activo intangible es apto para su uso a partir del 1 de diciembre de 2020.
     .row.mb-5
@@ -1491,77 +1734,77 @@
               td Bancos
               td $ 17.680.000
             tr
-              th
-              td
-              td
+              th 1705
+              td Gastos pagados por anticipado
+              td  $ 1.170.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 1305
+              td Clientes
+              td $ 5.070.000 
             tr
               th
               td
               td
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 1365
+              td Cuentas por cobrar a trabajadores
+              td $ 520.000 
             tr
-              th
-              td
-              td
+              th 1435
+              td Inventarios
+              td $ 32.500.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 1524
+              td Equipo de oficina
+              td $ 6.500.000 
             tr
-              th
-              td
-              td
+              th 1540
+              td Flota y equipo de transporte
+              td $ 62.400.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 1592
+              td Depreciación acumulada
+              td $ 7.670.000 
             tr
-              th
-              td
-              td
+              th 2105
+              td Obligaciones nacionales
+              td $ 630.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 2205
+              td Proveedores nacionales
+              td $ 3.120.000 
             tr
-              th
-              td
-              td
+              th 2408
+              td Impuestos sobre las ventas por pagar
+              td $ 910.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 2705
+              td Ingresos recibidos por anticipado
+              td $ 130.000 
             tr
-              th
-              td
-              td
+              th 3115
+              td Aportes sociales
+              td $ 98.800.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 5105
+              td Gastos de personal
+              td $ 4.160.000 
             tr
-              th
-              td
-              td
+              th 4135
+              td Ingresos ordinarios
+              td $ 42.120.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 4210
+              td Ingresos Financieros
+              td $ 364.000 
             tr
-              th
-              td
-              td
+              th 5305
+              td Gastos Financieros
+              td $ 585.000 
             tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
+              th 6135
+              td Costo de ventas
+              td $ 22.750.000 
       .col-lg-6
         figure(data-aos="flip-right")
           img(src="@/assets/curso/img41.svg", style="margin: auto; max-width: 80%;")
@@ -1592,6 +1835,96 @@
               td Bancos
               td $ 17.680.000
               td
+            tr
+              td 1305
+              td Clientes
+              td $ 5.070.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1365
+              td Cuentas por cobrar a trabajadores
+              td $ 520.000
+              td
+            tr
+              td 1435
+              td Inventarios
+              td $ 32.500.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1524
+              td Equipo de oficina
+              td $ 6.500.000
+              td
+            tr
+              td 1540
+              td Flota y equipo de transporte
+              td $ 62.400.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1592
+              td Depreciación acumulada
+              td 
+              td $ 7.670.000
+            tr
+              td 1705
+              td Gastos pagados por anticipado
+              td $ 1.170.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 2105
+              td Obligaciones nacionales
+              td 
+              td $ 630.000
+            tr
+              td 2205
+              td Proveedores nacionales
+              td 
+              td $ 3.120.000
+            tr(style="background-color: #F6F6F6;")
+              td 2408
+              td Impuestos sobre las ventas por pagar
+              td 
+              td $ 910.000
+            tr
+              td 2705
+              td Ingresos recibidos por anticipado
+              td 
+              td $ 130.000
+            tr(style="background-color: #F6F6F6;")
+              td 3115
+              td Aportes sociales
+              td 
+              td $ 98.800.000
+            tr
+              td 4135
+              td Ingresos ordinarios
+              td 
+              td $ 42.120.000
+            tr(style="background-color: #F6F6F6;")
+              td 4210
+              td Ingresos financieros
+              td 
+              td $ 364.000
+            tr
+              td 5105
+              td Gastos de personal
+              td $ 4.160.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 5305
+              td Gastos financieros
+              td $ 585.000
+              td
+            tr
+              td 6135
+              td Costo de ventas
+              td $ 22.750.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 
+              td TOTAL
+              td $ 153.744.000
+              td $ 153.744.000
     separador.mb-5
     #t_1_8
     .titulo-segundo
@@ -1655,6 +1988,64 @@
               td Caja
               td
               td $ 35.000
+            tr
+              td 5115
+              td GMF
+              td $ 85.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1110
+              td Bancos
+              td
+              td $ 85.000
+            tr
+              td 5160
+              td Gastos depreciación
+              td $ 1.094.167
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1592
+              td Depreciación acumulada
+              td
+              td $ 1.094.167
+            tr
+              td 5120
+              td Gastos arrendamiento
+              td $ 585.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1705
+              td Gastos pagados por anticipado
+              td
+              td $ 585.000
+            tr
+              td 2705
+              td Ingresos recibidos por anticipado
+              td $ 65.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 4210
+              td Ingresos financieros
+              td
+              td $ 65.000
+            tr
+              td 
+              td Sumas iguales
+              td $ 1.864.167
+              td $ 1.864.167
+            tr(style="background-color: #F6F6F6;")
+              td Elaborado por:
+                br
+                br
+              td Revisado por:
+                br
+                br
+              td Aprobado por:
+                br
+                br
+              td Contabilizado por:
+                br
+                br
       .col-lg-11
         table.mb-5
           thead
@@ -1694,7 +2085,187 @@
               td
               td $ 85.000
               td $ 17.595.000
+              td 
+            tr
+              td 1305
+              td Clientes
+              td $ 5.070.000
               td
+              td
+              td 
+              td $ 5.070.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1365
+              td Cuentas por cobrar a trabajadores
+              td $ 520.000
+              td
+              td $ 35.000
+              td 
+              td $ 555.000
+              td 
+            tr
+              td 1435
+              td Inventarios
+              td $ 32.500.000
+              td
+              td
+              td 
+              td $ 32.500.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1524
+              td Equipo de oficina
+              td $ 6.500.000
+              td
+              td
+              td 
+              td $ 6.500.000
+              td 
+            tr
+              td 1540
+              td Flota y equipo de transporte
+              td $ 62.400.000
+              td
+              td
+              td 
+              td $ 62.400.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 1592
+              td Depreciación acumulada
+              td 
+              td $ 7.670.000
+              td
+              td $ 1.094.167
+              td 
+              td $ 8.764.167
+            tr
+              td 1705
+              td Gastos pagados por anticipado
+              td $ 1.170.000
+              td
+              td
+              td $ 585.000
+              td $ 585.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 2105
+              td Obligaciones nacionales
+              td 
+              td $ 630.000
+              td
+              td 
+              td 
+              td $ 630.000
+            tr
+              td 2205
+              td Proveedores nacionales
+              td 
+              td $ 3.120.000
+              td
+              td 
+              td 
+              td $ 3.120.000
+            tr(style="background-color: #F6F6F6;")
+              td 2408
+              td Impuestos sobre las ventas por pagar
+              td 
+              td $ 910.000
+              td
+              td 
+              td 
+              td $ 910.000
+            tr
+              td 2705
+              td Ingresos recibidos por anticipado
+              td 
+              td $ 130.000
+              td $ 65.000
+              td 
+              td 
+              td $ 65.000
+            tr(style="background-color: #F6F6F6;")
+              td 3115
+              td Aportes sociales
+              td 
+              td $ 98.800.000
+              td
+              td 
+              td 
+              td $ 98.800.000
+            tr
+              td 4135
+              td Ingresos ordinarios
+              td 
+              td $ 42.120.000
+              td
+              td 
+              td 
+              td $ 42.120.000
+            tr(style="background-color: #F6F6F6;")
+              td 4210
+              td Ingresos financieros
+              td 
+              td $ 364.000
+              td
+              td $ 65.000
+              td 
+              td $ 429.000
+            tr
+              td 5105
+              td Gastos de personal
+              td $ 4.160.000
+              td
+              td
+              td 
+              td $ 4.160.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 5120
+              td Gastos arrendamiento
+              td 
+              td
+              td $ 585.000
+              td 
+              td $ 585.000
+              td
+            tr
+              td 5160
+              td Gastos depreciación
+              td 
+              td
+              td $ 1.094.167
+              td 
+              td $ 1.094.167
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 5305
+              td Gastos financieros
+              td $ 585.000
+              td
+              td $ 85.000
+              td 
+              td $ 670.000
+              td
+            tr
+              td 6135
+              td Costo de ventas
+              td $ 22.750.000
+              td
+              td
+              td 
+              td $ 22.750.000
+              td
+            tr(style="background-color: #F6F6F6;")
+              td 
+              td TOTAL
+              td $ 153.744.000
+              td $ 153.744.000
+              td $ 1.864.167
+              td $ 1.864.167
+              td $ 154.838.167
+              td $ 154.838.167
     .h4 Hoja de trabajo
     p La hoja de trabajo es el documento que recopila la información del balance de prueba, los ajustes, el balance ajustado, el estado de resultados y estado de situación financiera. Su objetivo es validar la información contable y que sea útil para la elaboración de los estados financieros.
     p.mb-5 Cabe resaltar que este insumo contribuye en la elaboración de los asientos de cierre, teniendo en cuenta que los saldos de las cuentas de ingresos, gastos y costos se deben cerrar al finalizar el periodo contable.
@@ -1719,6 +2290,14 @@
               td Ingresos financieros
               td $ 429.000
               td
+            tr
+              td Utilidad o pérdida
+              td 
+              td $ 42.549.000
+            tr(style="background-color: #F6F6F6;")
+              td TOTAL
+              td $ 42.549.000
+              td $ 42.549.000
       .col-lg-6
         table
           thead
@@ -1737,6 +2316,26 @@
               td Gastos de personal
               td
               td $ 4.160.000
+            tr
+              td Gastos arrendamiento
+              td 
+              td $ 585.000
+            tr(style="background-color: #F6F6F6;")
+              td Gastos depreciación
+              td
+              td $ 1.094.167
+            tr
+              td Gastos financieros
+              td 
+              td $ 670.000
+            tr(style="background-color: #F6F6F6;")
+              td Costo de ventas
+              td
+              td $ 22.750.000
+            tr
+              td TOTAL
+              td $ 29.259.167
+              td $ 29.259.167
     .h4 Cierre de la cuenta de utilidad o pérdida
     p.mb-5 A continuación, se observa la hoja de trabajo, teniendo en cuenta la información del ejemplo anterior:
     .row.justify-content-center.mb-5
@@ -1779,65 +2378,89 @@
               td Bancos
               td $ 17.680.000 
             tr
-              th
+              th 1305
+              td Clientes
+              td $ 5.070.000
+            tr(style="background-color: #F6F6F6;")
+              th 1365
+              td Cuentas por cobrar a trabajadores
+              td $ 520.000
+            tr
+              th 1435
+              td Inventarios
+              td $ 32.500.000
+            tr(style="background-color: #F6F6F6;")
+              th 1524
+              td Equipo de oficina
+              td $ 6.500.000
+            tr
+              th 1540
+              td Flota y equipo de transporte
+              td $ 62.400.000
+            tr(style="background-color: #F6F6F6;")
+              th 1592
+              td Depreciación acumulada
               td
+            tr
+              th 1705
+              td Gastos pagados por anticipado
+              td $ 1.170.000
+            tr(style="background-color: #F6F6F6;")
+              th 2105
+              td Obligaciones nacionales
+              td
+            tr
+              th 2205
+              td Proveedores nacionales
               td
             tr(style="background-color: #F6F6F6;")
-              th
+              th 2408
+              td Impuestos sobre las ventas por pagar
               td
+            tr
+              th 2705
+              td Ingresos recibidos por anticipado
+              td
+            tr(style="background-color: #F6F6F6;")
+              th 3115
+              td Aportes sociales
+              td
+            tr
+              th 4135
+              td Ingresos ordinarios
+              td
+            tr(style="background-color: #F6F6F6;")
+              th 4210
+              td Ingresos financieros
+              td
+            tr
+              th 5105
+              td Gastos de personal
+              td $ 4.160.000
+            tr(style="background-color: #F6F6F6;")
+              th 5120
+              td Gastos arrendamiento
+              td
+            tr
+              th 5160
+              td Gastos depreciación
+              td
+            tr(style="background-color: #F6F6F6;")
+              th 5305
+              td Gastos financieros
+              td $ 585.000
+            tr
+              th 6135
+              td Costo de ventas
+              td $ 22.750.000
+            tr(style="background-color: #F6F6F6;")
+              th 3605
+              td Utilidad del ejercicio
               td
             tr
               th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
-            tr(style="background-color: #F6F6F6;")
-              th
-              td
-              td
-            tr
-              th
-              td
-              td
+              td TOTAL
+              td $ 153.744.000
     .tarjeta.color-primario.p-3
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
