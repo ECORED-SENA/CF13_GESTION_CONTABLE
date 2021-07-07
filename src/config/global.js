@@ -299,7 +299,7 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Luis Arevalo',
+        nombre: 'Luis Arevalo Mantilla',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -313,8 +313,7 @@ export default {
       {
         nombre: 'Jhon Jairo Urueta Alvarez',
         cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
         nombre: 'Yuli Marcela Gómez Tarazona',
