@@ -527,7 +527,7 @@
       .col-lg-6
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            p #[b La ANIIF 9 (2014) expresa:]
+            p #[b La NIIF 9 (2014) expresa:]
             p.mb-0 Una entidad reconocerá una corrección de valor por pérdidas por pérdidas crediticias esperadas sobre un activo financiero que se mide de acuerdo con los párrafos 4.1.2 o 4.1.2A, una cuenta por cobrar por arrendamientos, un activo de contrato o un compromiso de préstamo y un contrato de garantía financiera a los que se les aplica los requerimientos de deterioro de valor de acuerdo con los párrafos 2.1(g), 4.2.1(c) o 4.2.1(d) El objetivo de los requerimientos del deterioro de valor es reconocer las pérdidas crediticias esperadas durante el tiempo de vida del activo de todos los instrumentos financieros para los cuales ha habido incrementos significativos en el riesgo crediticio desde el reconocimiento inicial — evaluado sobre una base colectiva o individual — considerando toda la información razonable y sustentable, incluyendo la que se refiera al futuro. (p.22)
       .col-lg-6
         figure(data-aos="flip-left").mt-4.mt-lg-0
@@ -1310,7 +1310,7 @@
         p.mb-0 El importe de libros es mayor al valor del arqueo de caja: eso genera un faltante, por ende, se establece el responsable de dicha situación y se procede a realizar el ajuste, con el fin de reflejar la realidad económica y el saldo correcto del efectivo. Los casos que se presentan por faltantes son los siguientes:
     .row.justify-content-end
       .col-11.p-4(style="background-color: #D8E4EF").mb-5
-        .h4 Carece de registro en libros, sin embargo, el dinero se utilizó para cancelar algún concepto
+        .h4 Carece de registro en libros, sin embargo, el dinero se utilizó para cancelar algún concepto.
         .h4 Ejemplo:
         p Sandra Rojas canceló por concepto de papelería $40.000, sin embargo, no se registró dicho concepto en los libros. Por lo tanto, se realiza el ajuste, registrando el concepto pendiente.
         p Asiento de ajuste.
@@ -1339,7 +1339,7 @@
                   td $ 40.000
                   td $ 40.000
       .col-11.p-4(style="background-color: #D8E4EF").mb-5
-        .h4 Faltante injustificado, no se evidencia el concepto o soporte por el que falta dinero en la caja, una vez se realizó el arqueo. Por lo anterior, el colaborador es responsable de este suceso
+        .h4 Faltante injustificado, no se evidencia el concepto o soporte por el que falta dinero en la caja, una vez se realizó el arqueo. Por lo anterior, el colaborador es responsable de este suceso.
         .h4 Ejemplo:
         p Una vez realizado el arqueo de caja se observa que se presenta un faltante injustificado por valor de $50.000.
         p Asiento de ajuste.
@@ -2376,7 +2376,7 @@
               td Caja
               td $ 409.000
             tr(style="background-color: #F6F6F6;")
-              th 110
+              th 1110
               td Bancos
               td $ 17.680.000 
             tr
