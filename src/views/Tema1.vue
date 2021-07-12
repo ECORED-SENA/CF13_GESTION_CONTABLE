@@ -1058,7 +1058,7 @@
     separador.mb-5
     #t_1_3
     .titulo-segundo
-      h2 1.3 Amortizaciones
+      h2 1.3 Amortización
     p Este concepto se utiliza para diferir en cuotas los gastos pagados por anticipado que son consumidos en el período de tiempo y que efectivamente cumplen con la definición del activo, de lo contrario se deben registrar en el gasto, clase 5.
     p Cabe resaltar que el activo debe cumplir con los siguientes criterios:
     .row.align-items-center.mb-5
