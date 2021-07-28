@@ -41,14 +41,14 @@
             | Finalmente, se elaboran los estados financieros de propósito general: estado de situación financiera, estado de resultados, estado de cambio en el patrimonio, estados de flujos de efectivo y notas.
       .col-lg-6
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img2.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img2.svg", style="margin: auto; max-width: 80 %;")
     figure.mb-5
-      img(src="@/assets/curso/img3.svg", style="margin: auto; max-width: 70%;")
+      img(src="@/assets/curso/img3.svg", style="margin: auto; max-width: 70 %;")
     p.mb-5  Los asientos de ajuste hacen referencia al reconocimiento y medición de hechos económicos que presentan errores, omisiones y ajustes al valor real, con el fin de reflejar la realidad económica de la empresa y de esta manera presentar los estados financieros de forma comprensible, útil, oportuna y confiable para la toma de decisiones. Estos ajustes carecen del soporte contable específico; por lo tanto, se registran a través de una nota de contabilidad, con el fin de evidenciar el tipo de ajustes realizado en el respectivo período contable.
     .row.align-items-center
       .col-lg-6
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img4.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img4.svg", style="margin: auto; max-width: 80 %;")
       .col-lg-6
         p Los ajustes que se realizan con mayor frecuencia, afectando el período actual y posteriores son:
         ul.lista-ul.ms-5
@@ -105,7 +105,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src="@/assets/curso/img7.svg", style="margin: auto; max-width: 80%;")
+                img(src="@/assets/curso/img7.svg", style="margin: auto; max-width: 80 %;")
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p De acuerdo con la NIC 36, el importe recuperable es “el mayor entre su valor razonable menos los costos de disposición y su valor en uso” (p.1695).
@@ -149,7 +149,7 @@
             | Activos no corrientes (o grupos de activos para su disposición) clasificados como mantenidos para la venta de acuerdo con la NIIF 5 Activos no Corrientes Mantenidos Para la Venta y Operaciones Discontinuadas.
       .col-lg-6
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img8.svg", style="margin: auto; max-width: 70%;")
+          img(src="@/assets/curso/img8.svg", style="margin: auto; max-width: 70 %;")
     p Cabe resaltar, que la empresa al finalizar cada período contable realizará la prueba de deterioro y verificará si hay indicios de este, con el fin de realizar los ajustes a que haya lugar; para ello, realizará la comparación del valor en libros con el importe recuperable, este proceso se debe realizar por lo menos una vez al año.
     p.mb-5 La NIC 36, considera indicios de deterioro los que se transcriben a continuación:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -185,7 +185,7 @@
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
         figure(data-aos="flip-left")
-          img(src="@/assets/curso/img9.svg", style="margin: auto; max-width: 70%;")
+          img(src="@/assets/curso/img9.svg", style="margin: auto; max-width: 70 %;")
       .col-lg-6
         ul.lista-ul.ms-5
           li 
@@ -235,7 +235,7 @@
     .row.justify-content-center.mb-5
       .col-11
         .cajon.color-primario.p-4
-          p El 1 de agosto la empresa compra a crédito, una máquina por valor de $100.000.000, con IVA del 19%, el valor de instalación es de $15.000.000. El activo estará apto para su uso el 15 de agosto de 2020. La vida útil es de 10 años.
+          p El 1 de agosto la empresa compra a crédito, una máquina por valor de $100.000.000, con IVA del 19 %, el valor de instalación es de $15.000.000. El activo estará apto para su uso el 15 de agosto de 2020. La vida útil es de 10 años.
           p El técnico experto estima el valor residual en $10.000.000. Calcule el valor del activo a 31 de diciembre de 2020. 
           p.mb-0 El importe recuperable es de $105.000.000, realice la prueba de deterioro; como se muestra a continuación: 
     .row.justify-content-center.mb-4
@@ -250,7 +250,7 @@
               td Costo Activo
               td $ 100.000.000
             tr(style="background-color: #F6F6F6;")
-              td IVA 19%
+              td IVA 19 %
               td $ 19.000.000
             tr
               td Instalación
@@ -429,7 +429,7 @@
               td.text-center $ 24.315.564
     p Cabe resaltar, que hay Normas Internacionales que relacionan en su contenido las directrices para el reconocimiento del deterioro, entre ellas tenemos:
     figure.mb-5(data-aos="flip-left")
-      img(src="@/assets/curso/img10.svg", style="margin: auto; max-width: 90%;")
+      img(src="@/assets/curso/img10.svg", style="margin: auto; max-width: 90 %;")
     .h4 Deterioro en inventarios (NIC 2)
     p Esta norma se aplica a todos los inventarios; excepto instrumentos financieros y activos biológicos. Allí se definen los criterios de reconocimiento, medición, presentación y revelación de inventarios, permitiendo identificar el costo con base a los elementos que lo componen. De igual manera, presenta las bases para el reconocimiento y medición del deterioro por este concepto. 
     p.mb-5 El deterioro en inventario se identifica mediante la comparación del importe en libros y el valor neto realizable; este último hace referencia al precio que se puede obtener por la venta de dicho activo. Si el importe en libros es mayor al valor neto realizable se considera deterioro de inventarios; por lo tanto, se registra la pérdida mediante un gasto.
@@ -437,7 +437,7 @@
     .row.justify-content-center.mb-5
       .col-11
         .cajon.color-primario.p-4
-          p.mb-0 Se compran 100 pares de zapatos a $25.000. Se incurrió en una erogación de $100.000 para transportar los bienes a su establecimiento de venta. Calcular el IVA 19%, RF 2,5%, RICA 11,04*1000.
+          p.mb-0 Se compran 100 pares de zapatos a $25.000. Se incurrió en una erogación de $100.000 para transportar los bienes a su establecimiento de venta. Calcular el IVA 19 %, RF 2,5 %, RICA 11,04*1000.
     .row.justify-content-center.mb-5
       .col-lg-5.mb-4.mb-lg-0.d-flex
         table
@@ -471,7 +471,7 @@
               td $ 475.000
               td
             tr
-              th RF 2,5%
+              th RF 2,5 %
               td 
               td $ 62.500
             tr(style="background-color: #F6F6F6;")
@@ -531,13 +531,13 @@
             p.mb-0 Una entidad reconocerá una corrección de valor por pérdidas por pérdidas crediticias esperadas sobre un activo financiero que se mide de acuerdo con los párrafos 4.1.2 o 4.1.2A, una cuenta por cobrar por arrendamientos, un activo de contrato o un compromiso de préstamo y un contrato de garantía financiera a los que se les aplica los requerimientos de deterioro de valor de acuerdo con los párrafos 2.1(g), 4.2.1(c) o 4.2.1(d) El objetivo de los requerimientos del deterioro de valor es reconocer las pérdidas crediticias esperadas durante el tiempo de vida del activo de todos los instrumentos financieros para los cuales ha habido incrementos significativos en el riesgo crediticio desde el reconocimiento inicial — evaluado sobre una base colectiva o individual — considerando toda la información razonable y sustentable, incluyendo la que se refiera al futuro. (p.22)
       .col-lg-6
         figure(data-aos="flip-left").mt-4.mt-lg-0
-          img(src="@/assets/curso/img11.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img11.svg", style="margin: auto; max-width: 60 %;")
     p.mb-5 El deterioro constituye la pérdida en los activos financieros, el cual ha sido medido al costo o al costo amortizado; por lo tanto, se debe revisar de forma individual si existen indicios de deterioro en cada período contable y realizar el respectivo ajuste a que haya lugar.
     .h4 Ejemplo:
     .row.justify-content-center.mb-5
       .col-11
         .cajon.color-primario.p-4
-          p.mb-0 La empresa Contable SAS, tiene una cuenta por cobrar por valor de $65.000.000, el cliente presenta una situación económica especial; por lo tanto, llega a un acuerdo de pago y se define que la cuenta será pagada dentro de 6 meses, la tasa del mercado es del 1,8% EM.
+          p.mb-0 La empresa Contable SAS, tiene una cuenta por cobrar por valor de $65.000.000, el cliente presenta una situación económica especial; por lo tanto, llega a un acuerdo de pago y se define que la cuenta será pagada dentro de 6 meses, la tasa del mercado es del 1,8 % EM.
     p.mb-5 En este caso, es importante tener en cuenta que el cliente paga dentro de 6 meses el valor de $65.000.000, no se cobran intereses; por lo tanto, dicho valor se debe traer a valor presente teniendo en cuenta el concepto de matemáticas financieras y valor el dinero en el tiempo. Por lo tanto, se aplica la fórmula de valor actual o valor presente, mediante interés efectivo.
     .row.align-items-center
       .col-lg-6
@@ -568,7 +568,7 @@
               td $ 6.598.139
       .col-lg-6
         figure(data-aos="flip-right").mt-4.mt-lg-0
-          img(src="@/assets/curso/img12.svg", style="margin: auto; max-width: 40%;")
+          img(src="@/assets/curso/img12.svg", style="margin: auto; max-width: 40 %;")
     separador.mb-5
     #t_1_2
     .titulo-segundo
@@ -583,7 +583,7 @@
         p Según la NIC 16 (2020):
       .col-lg-6
         figure(data-aos="flip-left")
-          img(src="@/assets/curso/img13.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img13.svg", style="margin: auto; max-width: 80 %;")
     .row.justify-content-center.mb-5
       .col-lg-8
         .bloque-texto-b.color-secundario.p-4
@@ -595,7 +595,7 @@
     p La depreciación de un activo cesará cuando haya finalizado su período de depreciación (vida útil). Por otro lado, se tendrá en cuenta la fecha más próxima entre la clasificación del activo como mantenido para la venta o la baja de cuentas de este, pero en ningún momento cuando el activo no se esté utilizando.
     p.mb-5 Para calcular la depreciación contable, se tiene en cuenta los siguientes elementos para hallar el importe en libros:
     figure(data-aos="flip-right").mb-5
-      img(src="@/assets/curso/img14.svg", style="margin: auto; max-width: 80%;")
+      img(src="@/assets/curso/img14.svg", style="margin: auto; max-width: 80 %;")
     p.mb-5 En el caso que se realicen las mediciones posteriores y que el activo se revalúe, el nuevo importe se tendrá en cuenta para la depreciación de este. 
     .h4 Depreciación fiscal
     p De acuerdo con el art. 69 del Estatuto Tributario (ET) para los contribuyentes declarantes de renta, se tendrá en cuenta la sumatoria de los costos de adquisición y los costos atribuibles hasta que el activo se encuentre en condiciones de uso. Cabe resaltar que los costos de desmantelamiento y retiro del elemento no se tendrán en cuenta.
@@ -604,7 +604,7 @@
         p #[b Parágrafo 1.] Las propiedades de inversión que se midan contablemente bajo el modelo de valor razonable, para efectos fiscales se medirán al costo.
         p Según el art. 69-1, los activos no corrientes mantenidos para la venta tendrán en cuenta los siguientes conceptos para calcular la depreciación acumulada:
     figure(data-aos="flip-right").mb-5
-      img(src="@/assets/curso/img15.svg", style="margin: auto; max-width: 80%;")
+      img(src="@/assets/curso/img15.svg", style="margin: auto; max-width: 80 %;")
     .h4 Vida útil
     p.mb-5 La vida útil de los activos fijos se relaciona en las políticas contables diseñadas por la empresa, teniendo en cuenta la utilidad del activo. De acuerdo con el art. 137 del ET, la tasa de depreciación anual y vida útil equivalente se presenta de la siguiente manera:
     .row.justify-content-center.mb-5
@@ -618,74 +618,74 @@
           tbody
             tr
               td Construcciones y edificaciones
-              td 2,22%
+              td 2,22 %
               td 45 años
             tr(style="background-color: #F6F6F6;")
               td Acueducto, planta y redes
-              td 2,50%
+              td 2,50 %
               td 40 años
             tr
               td Vías de comunicación
-              td 2,50%
+              td 2,50 %
               td 40 años
             tr(style="background-color: #F6F6F6;")
               td Flota y equipo aéreo
-              td 3,33%
+              td 3,33 %
               td 30 años
             tr
               td Flota y equipo férreo
-              td 5,00%
+              td 5,00 %
               td 20 años
             tr(style="background-color: #F6F6F6;")
               td Flota y equipo fluvial
-              td 6,67%
+              td 6,67 %
               td 15 años
             tr
               td Armamento y equipo de vigilancia
-              td 10,00%
+              td 10,00 %
               td 10 años
             tr(style="background-color: #F6F6F6;")
               td Equipo eléctrico
-              td 10,00%
+              td 10,00 %
               td 10 años
             tr
               td Flota y equipo de transporte terrestre
-              td 10,00%
+              td 10,00 %
               td 10 años
             tr(style="background-color: #F6F6F6;")
               td Maquinaria, equipos
-              td 10,00%
+              td 10,00 %
               td 10 años
             tr
               td Muebles y enseres
-              td 10,00%
+              td 10,00 %
               td 10 años
             tr(style="background-color: #F6F6F6;")
               td Equipo médico científico
-              td 12,50%
+              td 12,50 %
               td 8 años
             tr
               td Envases, empaques y herramientas
-              td 20,00%
+              td 20,00 %
               td 5 años
             tr(style="background-color: #F6F6F6;")
               td Equipo de computación
-              td 20,00%
+              td 20,00 %
               td 5 años
             tr
               td Redes de procesamiento de datos
-              td 20,00%
+              td 20,00 %
               td 5 años
             tr(style="background-color: #F6F6F6;")
               td Equipo de comunicación
-              td 20,00%
+              td 20,00 %
               td 5 años
     .h4 Métodos de depreciación
     p.mb-5 La depreciación se calcula sobre la sumatoria del precio de adquisición, el impuesto sobre las ventas y costos atribuibles para poner en funcionamiento el activo. Los métodos, son los siguientes:
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60 %;")
       .col
         .h4.mb-0 Método de línea recta
     p.mb-5 Es el método que se usa con mayor frecuencia en las empresas, el cual consiste en dividir el costo del activo entre la vida útil estimada; por lo tanto, el cálculo en períodos iguales será el mismo valor.
@@ -693,7 +693,7 @@
     .row.justify-content-center.mb-5
       .col-11
         .cajon.color-primario.p-4
-          p.mb-0 La entidad compra una máquina por valor de $35.000.000, más IVA del 19%. La vida útil estimada del activo es de 15 años. Paga mano de obra por instalación de la máquina por $300.000, materiales e insumos de instalación $180.000.
+          p.mb-0 La entidad compra una máquina por valor de $35.000.000, más IVA del 19 %. La vida útil estimada del activo es de 15 años. Paga mano de obra por instalación de la máquina por $300.000, materiales e insumos de instalación $180.000.
     p Se realiza una prueba de funcionamiento del activo y se paga $150.000. El vendedor de la máquina transfiere los riesgos y beneficios el 7 de noviembre de 2020 y la máquina está apta para ser usada el 12 de noviembre de 2020. Calcular la depreciación del mes de noviembre y diciembre.
     .row.justify-content-center.mb-5
       .col-lg-5.d-flex
@@ -778,7 +778,7 @@
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60 %;")
       .col
         .h4.mb-0 Método de depreciación acelerada
     .row.justify-content-center.mb-5
@@ -786,13 +786,13 @@
         p Es considerado un método de depreciación acelerada, porque el activo se deprecia más en los primeros años y menos en los últimos. Cabe resaltar que el método de depreciación se estipula en las políticas contables, señalando la tasa de depreciación y vida útil aplicable a los activos fijos. 
         p.mb-4 Primero, se debe calcular el factor de depreciación, para ello, utilizamos la siguiente fórmula:
         figure.mb-4
-          img(src="@/assets/curso/img21.svg", style="max-width: 20%;").m-auto
+          img(src="@/assets/curso/img21.svg", style="max-width: 20 %;").m-auto
         p Donde: 
         p #[b S] = suma de dígitos.
         p #[b N] = años estimados de vida útil.
         p Teniendo en cuenta el ejemplo anterior, se desarrollará por el método de depreciación acelerada:
         figure
-          img(src="@/assets/curso/img44.svg", style="max-width: 20%;").m-auto
+          img(src="@/assets/curso/img44.svg", style="max-width: 20 %;").m-auto
     p.mb-5 Luego, se tiene en cuenta el factor para cada año de vida: 15/120 – 14/120 -13/120 y así sucesivamente hasta llegar a uno, como se muestra en la siguiente tabla:
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -905,7 +905,7 @@
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img18.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img18.svg", style="margin: auto; max-width: 60 %;")
       .col
         .h4.mb-0 Método de unidades de producción
     p.mb-5 Para aplicar este método se tiene en cuenta la vida útil del activo de acuerdo con su capacidad de producción, como puede ser: horas de trabajo, kilómetros y unidades producidas.
@@ -959,10 +959,10 @@
         .cajon.color-primario.p-4
           p Para calcular el valor de depreciación por unidad se aplica la siguiente fórmula:
           figure.mb-4
-            img(src="@/assets/curso/img19.svg", style=" max-width: 85%;")
+            img(src="@/assets/curso/img19.svg", style=" max-width: 85 %;")
           p Luego, se multiplica las unidades producidas por la depreciación por unidad:
           figure.mb-4
-            img(src="@/assets/curso/img20.svg", style=" max-width: 85%;")
+            img(src="@/assets/curso/img20.svg", style=" max-width: 85 %;")
           p #[b Depreciación por unidad=] $2.000/unidad
           p Seguidamente, se multiplica las unidades producidas por la depreciación por unidad:
           p #[b Depreciación=] $ 2.0000 * 2.800 unidades.
@@ -1079,12 +1079,12 @@
         p.mt-5 Algunos conceptos que se tienen en cuenta para amortización de gastos pagados por anticipado al final del período contable son:  arrendamientos, pólizas de seguros, comisiones, honorarios, mantenimiento, servicios, etc.
       .col-lg-6.mt-4.mt-lg-0
         figure(data-aos="flip-left")
-          img(src="@/assets/curso/img22.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img22.svg", style="margin: auto; max-width: 80 %;")
     .h4 Ejemplo:
     .row.justify-content-center.mb-5
       .col-11
         .cajon.color-primario.p-4
-          p El 1 de diciembre de 2020, la empresa Contable SAS, adquiere por un año una póliza de seguro por valor de $12.000.000, canela en efectivo
+          p El 1 de diciembre de 2020, la empresa Contable SAS, adquiere por un año una póliza de seguro por valor de $12.000.000, cancela en efectivo
     .row.justify-content-center.mb-5
       .col-lg-6
         table
@@ -1141,13 +1141,13 @@
       .col-lg-6
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            p.mb-0 La amortización cesará en la fecha más temprana entre aquélla en que el activo se clasifique como mantenido para la venta (o incluido en un grupo de activos para su disposición que se haya clasificado como mantenido para la venta) de acuerdo con la NIIF 5, y la fecha en que se produzca la baja en cuentas de este”. (párr.97)
+            p.mb-0 La amortización cesará en la fecha más temprana entre aquella en que el activo se clasifique como mantenido para la venta (o incluido en un grupo de activos para su disposición que se haya clasificado como mantenido para la venta) de acuerdo con la NIIF 5, y la fecha en que se produzca la baja en cuentas de este”. (párr.97)
               br
               br
               p Pueden utilizarse diferentes métodos para distribuir el importe amortizable de un activo, de forma sistemática, a lo largo de su vida útil. Estos métodos incluyen el método lineal, el de depreciación decreciente y el de las unidades de producción. El método utilizado se seleccionará a partir del patrón esperado de consumo de los beneficios económicos futuros esperados incorporados en el activo y se aplicará de forma coherente de período a período, a menos que se produzca un cambio en los patrones esperados de consumo de dichos beneficios económicos futuros. (párr.98)
       .col-lg-6.mt-4.mt-lg-0
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img23.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img23.svg", style="margin: auto; max-width: 80 %;")
     p NIC 8, establece:
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -1160,7 +1160,7 @@
         .cajon.color-primario.p-4
           p.mb-0 El 1 de julio de 2020 la empresa Contable SAS inicia el desarrollo de un software, por lo tanto, incurre en los siguientes gastos:
     figure.mb-5(data-aos="flip-right")
-      img(src="@/assets/curso/img24.svg", style="margin: auto; max-width: 80%;")
+      img(src="@/assets/curso/img24.svg", style="margin: auto; max-width: 80 %;")
     p.mb-5 El software estará apto para su uso el 01 de diciembre de 2020. Se estima una vida útil de 3 años. Se solicita realizar la medición inicial y la amortización del primer mes.
     .h4.mb-5 Medición inicial:
     .row.justify-content-center.mb-5
@@ -1242,7 +1242,7 @@
             | Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros. Cabe resaltar que para el grupo 2- NIIF pymes aplica la sección 30 Conversión de la moneda extranjera. (p.A195)
       .col-lg-6
         figure(data-aos="flip-left")
-          img(src="@/assets/curso/img25.svg", style="margin: auto; max-width: 65%;")
+          img(src="@/assets/curso/img25.svg", style="margin: auto; max-width: 65 %;")
     .h4 Ejemplo:
     .cajon.color-primario.p-4.mb-5
       p.mb-0 El 24 de noviembre de 2020 la empresa Contables SAS adquiere maquinaria y equipo por valor de USD 57.000, a una tasa de USD 3.500. El 18 de diciembre de 2020, se transfiere el riesgo una vez la máquina se encuentra en Colombia, fecha en la cual se realizará el pago. Cuando se realiza el proceso de nacionalización la tasa vigente es USD 3.620.
@@ -1300,12 +1300,12 @@
     p Las empresas manejan la cuenta de caja general y caja menor, las cuales hacen parte del efectivo; esta última se utiliza para gastos de menor cuantía y debe establecerse en las políticas contables el valor del fondo y los conceptos que lo componen, con el fin de ser aplicados de forma correcta conforme los estándares establecidos. 
     p.mb-5 Por otro lado, la caja general se utiliza para cancelar gastos o conceptos mayores. En cualquiera de los dos casos es importante realizar un arqueo de caja, el cual consiste en comparar el valor de libros con lo que efectivamente existe en la caja.
     figure(data-aos="flip-right").mb-5
-      img(src="@/assets/curso/img26.svg", style="margin: auto; max-width: 90%;")
+      img(src="@/assets/curso/img26.svg", style="margin: auto; max-width: 90 %;")
     p.mb-5 Cuando se realiza la comparación pueden surgir diferencias que requieren un ajuste contable mediante una nota de contabilidad, estos pueden ser:
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60 %;")
       .col
         p.mb-0 El importe de libros es mayor al valor del arqueo de caja: eso genera un faltante, por ende, se establece el responsable de dicha situación y se procede a realizar el ajuste, con el fin de reflejar la realidad económica y el saldo correcto del efectivo. Los casos que se presentan por faltantes son los siguientes:
     .row.justify-content-end
@@ -1317,7 +1317,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img27.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img27.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1366,11 +1366,11 @@
                   td $ 50.000
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img28.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img28.svg", style="margin: auto; max-width: 50 %;")
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60 %;")
       .col
         p.mb-0 El importe de libros es menor al valor del arqueo de caja: en este caso la diferencia constituye un sobrante, el cual requiere un ajuste contable. Los casos que se presentan son los siguientes:
     .row.justify-content-end
@@ -1382,7 +1382,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img29.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img29.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1431,19 +1431,19 @@
                   td $ 20.000
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img28.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img28.svg", style="margin: auto; max-width: 50 %;")
     separador.mb-5
     #t_1_6
     .titulo-segundo
       h2 1.6 Conciliación bancaria
     figure(data-aos="flip-right").mb-5
-      img(src="@/assets/curso/img30.svg", style="margin: auto; max-width: 50%;")
+      img(src="@/assets/curso/img30.svg", style="margin: auto; max-width: 50 %;")
     p La conciliación bancaria, es el proceso de verificación y comparación del importe en libros de la cuenta de bancos con el extracto de la cuenta de ahorros o corriente generado por la entidad financiera; cuyo objetivo, es confrontar las diferencias y realizar los ajustes respectivos que permitan revelar información comprensible, útil y oportuna.
     p.mb-5 La conciliación se realiza de forma mensual, teniendo en cuenta, confirmar las fechas, valores, soportes de las transacciones, luego se analizan las diferencias encontradas y se realizan los ajustes, con el fin de reflejar el saldo correcto en los libros. Los ajustes que frecuentemente se presentan son los siguientes:
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img16.svg", style="margin: auto; max-width: 60 %;")
       .col
         p.mb-0 #[b Por importes no registrados por la empresa y que se reflejan en el extracto bancario:] en este caso se debe realizar ajustes mediante notas débito y notas crédito, de acuerdo con la transacción que se esté presentando:
     ul.lista-ul.ms-4
@@ -1453,7 +1453,7 @@
     .row.justify-content-end
       .col-11.p-4(style="background-color: #D8E4EF").mb-5
         .h4 Ejemplo 1: Registro compra chequera
-        p La empresa Contable SAS, no registra la compra de chequera por valor de $180.000, más IVA del 19%, la cual se encuentra registrada en el extracto bancario emitido por la entidad financiera.
+        p La empresa Contable SAS, no registra la compra de chequera por valor de $180.000, más IVA del 19 %, la cual se encuentra registrada en el extracto bancario emitido por la entidad financiera.
         p Asiento de ajuste.
         .row.align-items-center.justify-content-center
           .col-lg-5
@@ -1482,7 +1482,7 @@
                   td $ 214.200
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img31.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img31.svg", style="margin: auto; max-width: 50 %;")
       .col-11.p-4(style="background-color: #D8E4EF").mb-5
         .h4 Ejemplo 2: Registro GMF
         p En el extracto bancario se encuentra registrada una nota débito por concepto de Gravamen a los movimientos financieros por un valor de $90.300, el cual, no se encuentra registrado en los libros contables de la empresa.
@@ -1490,7 +1490,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img32.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img32.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1539,7 +1539,7 @@
                   td $ 600.000
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img33.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img33.svg", style="margin: auto; max-width: 50 %;")
     ul.lista-ul.ms-4
       li 
         i.fas.fa-angle-right(style="color: #D9A171")
@@ -1553,7 +1553,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img34.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img34.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1577,7 +1577,7 @@
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img17.svg", style="margin: auto; max-width: 60 %;")
       .col
         p.mb-0 #[b Por errores en libros:] se presenta cuando la empresa registra un menor o mayor valor en la contabilidad, por concepto de consignaciones.
     .row.justify-content-end
@@ -1609,7 +1609,7 @@
                   td $ 900.000
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img35.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img35.svg", style="margin: auto; max-width: 50 %;")
       .col-11.p-4(style="background-color: #D8E4EF").mb-5
         .h4 Ejemplo 6: registro de mayor valor de la consignación
         p La empresa contable SAS realiza una consignación en la cuenta corriente por valor de $580.000; sin embargo, el registro contable aparece por $850.000.
@@ -1617,7 +1617,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img36.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img36.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1641,7 +1641,7 @@
     .row.align-items-center.mb-5
       .col-auto.d-inline
         figure
-          img(src="@/assets/curso/img18.svg", style="margin: auto; max-width: 60%;")
+          img(src="@/assets/curso/img18.svg", style="margin: auto; max-width: 60 %;")
       .col
         p.mb-0 #[b Por errores en libros al contabilizar un cheque:] se presenta cuando la empresa registra un menor o mayor valor en la contabilidad, por concepto de cheques girados.
     .row.justify-content-end
@@ -1672,7 +1672,7 @@
                   td $ 630.000
           .col-lg-5.mt-4.mt-lg-0
             figure
-              img(src="@/assets/curso/img37.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img37.svg", style="margin: auto; max-width: 50 %;")
       .col-11.p-4(style="background-color: #D8E4EF")
         .h4 Ejemplo 8: registro de mayor valor del cheque
         p La empresa contable SAS gira un cheque por valor de $3.200.000, para cancelar a los proveedores la mercancía; sin embargo, el registro contable aparece por $3.800.000.
@@ -1680,7 +1680,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5
             figure
-              img(src="@/assets/curso/img38.svg", style="margin: auto; max-width: 50%;")
+              img(src="@/assets/curso/img38.svg", style="margin: auto; max-width: 50 %;")
           .col-lg-5.mt-4.mt-lg-0
             table
               thead
@@ -1705,14 +1705,14 @@
     #t_1_7
     .titulo-segundo
       h2 1.7 Balance de prueba
-    p.mb-5 El Balance de prueba o de comprobación es un documento que refleja los saldos en él debe y haber de las cuentas de activo, pasivo, patrimonio, ingresos, gastos y costos. Cada una de las columnas débito y crédito deber dar sumas iguales, verificando una vez más el principio de partida doble.
+    p.mb-5 El Balance de prueba o de comprobación es un documento que refleja los saldos en el debe y haber de las cuentas de activo, pasivo, patrimonio, ingresos, gastos y costos. Cada una de las columnas débito y crédito deber dar sumas iguales, verificando una vez más el principio de partida doble.
     .row.align-items-center.mb-5
       .col-lg-6
         p Las cuentas de naturaleza débito son activos, gastos y costo y las cuentas de naturaleza crédito se encuentran conformadas por pasivo, patrimonio e ingresos.
         p Este balance es el insumo para elaborar el balance de prueba ajustado, donde se actualizan los saldos de las cuentas que presentaron ajustes por diferentes conceptos y seguidamente realizar los estados financieros de propósito general.
       .col-lg-6
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img40.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img40.svg", style="margin: auto; max-width: 80 %;")
     .h4 Ejemplo:
     .row.justify-content-center.mb-5
       .col-11
@@ -1809,7 +1809,7 @@
               td $ 22.750.000 
       .col-lg-6
         figure(data-aos="flip-right")
-          img(src="@/assets/curso/img41.svg", style="margin: auto; max-width: 80%;")
+          img(src="@/assets/curso/img41.svg", style="margin: auto; max-width: 80 %;")
     p.mb-5 Para elaborar el balance de comprobación o de prueba es importante organizar cada una de las cuentas teniendo en cuenta la clase de activo, pasivo, patrimonio, ingresos, gastos y costos, luego se traslada el saldo de acuerdo con la naturaleza de cada cuenta. Finalmente, se verifica que el total débito y crédito tengan el mismo valor. A continuación, observe la solución del ejercicio planteado:
     .row.justify-content-center
       .col-lg-8
@@ -1935,7 +1935,7 @@
     p Teniendo en cuenta lo anterior, se procede a realizar el comprobante de ajustes, seguidamente el balance ajustado donde se trasladan cada una de las cuentas de activos, pasivo, patrimonio, ingresos, gastos y costos. 
     p.mb-5 Cabe resaltar que el balance debe sumar igual en el movimiento débito y crédito. 
     figure(data-aos="flip-left").mb-5
-      img(src="@/assets/curso/img42.svg", style="margin: auto; max-width: 80%;")
+      img(src="@/assets/curso/img42.svg", style="margin: auto; max-width: 80 %;")
     .h4 Ejemplo:
     .row.justify-content-center.mb-5
       .col-11
